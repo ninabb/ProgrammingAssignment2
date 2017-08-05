@@ -1,3 +1,5 @@
+## These functions are used to store a matrix, and solve and cache its inverse, within one object
+
 ## Creates a 'matrix' object which can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
